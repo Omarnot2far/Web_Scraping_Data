@@ -7,5 +7,7 @@ It involves the automated collection of data from websites and the transformatio
 **libaray used**
 
 import requests
+
 from bs4 import BeautifulSoup
+
 import pandas as pd
